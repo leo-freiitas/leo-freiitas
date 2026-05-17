@@ -17,7 +17,7 @@ When I was young I enjoyed solving math exercises, so when I started programming
 ## ✉️ Find me on:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leonardo3965/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"      alt="Linkedin" height="30" style="vertical-align:top; margin:10px"></a>
+<a href="https://www.linkedin.com/in/leonardofreiitas/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"      alt="Linkedin" height="30" style="vertical-align:top; margin:10px"></a>
 <a href="mailto:leofreitas.engineer@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" style="vertical-align:top;     margin:10px"></a>
  <a href="https://steamcommunity.com/id/leonardo3965/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" alt="Steam" height="30" style="vertical-align:top; margin:10px"></a>
 </p>
