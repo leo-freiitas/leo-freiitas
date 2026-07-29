@@ -2,11 +2,11 @@
 [![Github](https://img.shields.io/github/followers/Leo3965?label=Follow&style=social)](https://github.com/Leo3965)
 
 <h1 align="center" dir="auto"> Hi there 👋 </h1>
-I am Leonardo O. Freitas, and I am passionate about software development. Graduated from São Judas University with a degree in Computer Engineering in 2023.
+I am a Software Engineer with a Bachelor's degree in Computer Engineering and an MBA in Software Engineering from FIAP. I have experience building scalable backend systems, cloud-native applications, and distributed architectures. I am passionate about software engineering and artificial intelligence, and I enjoy creating reliable technology that solves real-world problems and delivers business value.
 
-
-📚 Skills: Java, Go
-
+<br />
+📚 Skills: AWS, Java, Go
+<br />
 
 :notebook_with_decorative_cover: I am continuously studying software architecture, data structures, design patterns, and integrations including messaging, webhooks, REST, and cloud technologies in Java and Golang.
 
