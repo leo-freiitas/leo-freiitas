@@ -1,25 +1,36 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Leo3965.Leo3965)
 [![Github](https://img.shields.io/github/followers/Leo3965?label=Follow&style=social)](https://github.com/Leo3965)
 
-<h1 align="center" dir="auto"> Hi there 👋 </h1>
-I am a Software Engineer with a Bachelor's degree in Computer Engineering and an MBA in Software Engineering from FIAP. I have experience building scalable backend systems, cloud-native applications, and distributed architectures. I am passionate about software engineering and artificial intelligence, and I enjoy creating reliable technology that solves real-world problems and delivers business value
+---
 
-<br>
-📚 Skills: AWS, Java, Go
-<br>
+#### Software Engineer | Backend Systems, Cloud-Native Applications, and Distributed Architectures
 
-:notebook_with_decorative_cover: I am continuously studying software architecture, data structures, design patterns, and integrations including messaging, webhooks, REST, and cloud technologies in Java and Golang
+<table>
+  <tr>
+    <td valign="middle" width="200">
+      <img src="./leo-3x4.png" alt="Leonardo Freitas" width="180">
+    </td>
+    <td valign="middle">
+      <p>I am a Software Engineer with a Bachelor's degree in Computer Engineering and an MBA in Software Engineering from FIAP. My work focuses on backend systems, cloud-native applications, and distributed architectures. I am passionate about software engineering and artificial intelligence, and I enjoy building reliable technology that addresses real-world problems and delivers business value.</p>
+    </td>
+  </tr>
+</table>
 
-## A bit about myself
-When I was young I enjoyed solving math exercises, so when I started programming it was like love at first sight. Programming for me is a hobby, work, a way to improve how we interact with the world and ourselves.
+### Technologies
 
+- **Cloud:** AWS, Google Cloud Platform (GCP)
+- **Programming languages:** Java, Go, Rust
 
-## ✉️ Find me on:
+### Areas of interest
 
-<p align="center">
-<a href="https://www.linkedin.com/in/leonardofreiitas/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"      alt="Linkedin" height="30" style="vertical-align:top; margin:10px"></a>
-<a href="mailto:leofreitas.engineer@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" style="vertical-align:top;     margin:10px"></a>
- <a href="https://steamcommunity.com/id/leonardo3965/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" alt="Steam" height="30" style="vertical-align:top; margin:10px"></a>
-</p>
+I am continuously studying software architecture, data structures, and design patterns. I am also interested in building integrations and distributed systems using messaging, webhooks, REST APIs, and cloud technologies.
 
+### A little about me
 
+Outside of work, I enjoy exploring nature, traveling, spending time with friends, and playing the guitar. I have a big heart and believe technology can help make the world a better place. For me, it’s a way to turn my curiosity into something meaningful.
+
+### Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/leonardofreiitas/)
+- [Email](mailto:leonardo.freiitas@outlook.com)
+- [Steam](https://steamcommunity.com/id/leonardo3965/)
