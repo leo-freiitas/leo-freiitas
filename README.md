@@ -11,7 +11,8 @@
       <img src="./leo-3x4.png" alt="Leonardo Freitas" width="180">
     </td>
     <td valign="middle">
-      <p>I am a Software Engineer with a Bachelor's degree in Computer Engineering and an MBA in Software Engineering from FIAP. My work focuses on backend systems, cloud-native applications, and distributed architectures. I am passionate about software engineering and artificial intelligence, and I enjoy building reliable technology that addresses real-world problems and delivers business value.</p>
+      <p> With nearly a decade of experience in software engineering, my career has centered on designing and delivering backend systems that solve complex challenges at scale. This work has included addressing scalability bottlenecks, guiding the transition from monolithic architectures to microservices, and building high-throughput systems handling more than 107 million requests per minute. I have also contributed to critical, security-sensitive systems, including secrets management.
+      </p>
     </td>
   </tr>
 </table>
@@ -23,11 +24,11 @@
 
 ### Areas of interest
 
-I am continuously studying software architecture, data structures, and design patterns. I am also interested in building integrations and distributed systems using messaging, webhooks, REST APIs, and cloud technologies.
+My interests include software architecture, distributed systems, and the challenges of building reliable services at scale. I enjoy exploring how thoughtful system design, well-chosen patterns, and integrations such as messaging, webhooks, and REST APIs can make complex systems easier to evolve and operate. Artificial intelligence is another area I follow closely.
 
 ### A little about me
 
-Outside of work, I enjoy exploring nature, traveling, spending time with friends, and playing the guitar. I have a big heart and believe technology can help make the world a better place. For me, it’s a way to turn my curiosity into something meaningful.
+Outside of work, life is loved spent exploring nature, traveling, sharing a laugh with friends, and playing the guitar. A big heart and a curious mind shape the way I see technology: as a way to make the world a little better.
 
 ### Connect with me
 
