@@ -34,4 +34,4 @@ Outside of work, life is loved spent exploring nature, traveling, sharing a laug
 
 - [LinkedIn](https://www.linkedin.com/in/leonardofreiitas/)
 - [Email](mailto:leonardo.freiitas@outlook.com)
-- [Steam](https://steamcommunity.com/id/leonardo3965/)
+- [Steam](https://steamcommunity.com/id/leofreiitas/)
